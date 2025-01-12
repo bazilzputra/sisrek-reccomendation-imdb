@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-surprise
+beautifulsoup4
+requests
